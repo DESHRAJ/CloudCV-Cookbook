@@ -1,4 +1,4 @@
-# cloudcvapp Cookbook
+# CloudCV Cookbook
 
 TODO: Enter the cookbook description here.
 
@@ -77,4 +77,3 @@ e.g.
 ## License and Authors
 
 Authors: TODO: List authors
-
