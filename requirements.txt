@@ -1,0 +1,5 @@
+keras
+spaCy==0.101.0
+scikit-learn
+progressbar==2.3
+
